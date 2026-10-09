@@ -21,6 +21,5 @@ This project is a modern, responsive redesign of the InternNova homepage, develo
 3. Open `index.html` using Live Server.
 
 ## Project Links
-- **Live Website:** Add your GitHub Pages URL here after publishing.
-- **GitHub Repository:** Add your repository URL here.
-
+- **Live Website:**https://sanjanamaddala11.github.io/Internnova-homepage-redesign/
+- **GitHub Repository:**https://github.com/SanjanaMaddala11/Internnova-homepage-redesign
